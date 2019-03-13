@@ -1,0 +1,36 @@
+{
+  "name": "globelsignin",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.3.1",
+    "apollo-client": "^1.9.3",
+    "apollo-link-http": "^1.5.12",
+    "graphql": "^14.1.1",
+    "graphql-request": "^1.8.2",
+    "graphql-tag": "^2.10.1",
+    "graphqlhub-schemas": "^0.1.0",
+    "react": "^15.6.1",
+    "react-apollo": "^2.5.2",
+    "react-dom": "^15.6.1",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
